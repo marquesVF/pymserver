@@ -8,6 +8,7 @@ requirements = [
     'pydub',
     'mutagen',
     'gi',
+    'flask',
 ]
 
 setup(
